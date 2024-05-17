@@ -1,116 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FPT\\Udemy\\E-ComerceStore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|d:\\fpt\\udemy\\e-comercestore\\api\\data\\migrations\\20240508063829_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\data\\migrations\\20240508063829_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|D:\\FPT\\Udemy\\E-ComerceStore\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|D:\\FPT\\Udemy\\E-ComerceStore\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|D:\\FPT\\Udemy\\E-ComerceStore\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|D:\\FPT\\Udemy\\E-ComerceStore\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|D:\\FPT\\Udemy\\E-ComerceStore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240508063829_InitialCreate.cs",
-              "DocumentMoniker": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\Data\\Migrations\\20240508063829_InitialCreate.cs",
-              "RelativeDocumentMoniker": "API\\Data\\Migrations\\20240508063829_InitialCreate.cs",
-              "ToolTip": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\Data\\Migrations\\20240508063829_InitialCreate.cs",
-              "RelativeToolTip": "API\\Data\\Migrations\\20240508063829_InitialCreate.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:13:18.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-11T09:13:12.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "API",
-              "DocumentMoniker": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\API.csproj",
-              "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\API.csproj",
-              "RelativeToolTip": "API\\API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T09:12:39.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
-              "ToolTip": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\appsettings.Development.json",
-              "RelativeToolTip": "API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-11T09:05:35.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-11T09:03:43.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\FPT\\Udemy\\E-ComerceStore\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAswCcAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T08:52:35.325Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
