@@ -1,9 +1,12 @@
 
-import Catalog from "../../features/catalog/Catalog";
-import { Container, CssBaseline, ThemeProvider, Typography, createTheme } from "@mui/material";
+import { Container, CssBaseline, ThemeProvider, createTheme } from "@mui/material";
 import Header from "./Header";
 import { useState } from "react";
 import { Outlet } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
+import 'react-toastify/ReactToastify.css'
+
 
 
 export default function App() {
@@ -14,21 +17,22 @@ export default function App() {
     palette: {
       mode: paletteType,
       background: {
-        default: paletteType == 'light'? '#D4D4D4' : '#121212'
+        default: paletteType == 'light' ? '#D4D4D4' : '#121212'
       }
     }
   });
 
-  function handleThemeChange(){
+  function handleThemeChange() {
     setDarkmode(!darkMode)
   }
 
   return (
     <ThemeProvider theme={theme}>
+      <ToastContainer position="top-right" hideProgressBar theme="colored"></ToastContainer>
       <CssBaseline />
-      <Header darkmode= {darkMode} handleThemeChange={handleThemeChange} />
+      <Header darkMode={darkMode} handleThemeChange={handleThemeChange} />
       <Container>
-        <Outlet/>
+        <Outlet />
       </Container>
 
     </ThemeProvider>

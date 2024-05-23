@@ -13,26 +13,26 @@ export default function ProductCard({ product }: Props) {
 
             <CardHeader
                 avatar={
-                    <Avatar sx={{bgcolor: 'secondary.main'}}>
+                    <Avatar sx={{ bgcolor: 'secondary.main' }}>
                         {product.name.charAt(0).toLocaleUpperCase()}
                     </Avatar>
                 }
                 title={product.name}
                 titleTypographyProps={{
-                    sx: { fontWeight: 'bold', color: 'primary.main'}
+                    sx: { fontWeight: 'bold', color: 'primary.main' }
                 }}
             />
 
 
 
             <CardMedia
-                sx={{ height: 140, backgroundSize: 'contain', bgcolor:'primary.light' }}
+                sx={{ height: 140, backgroundSize: 'contain', bgcolor: 'primary.light' }}
                 image={product.pictureUrl}
                 title={product.name}
             />
             <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                    ${(product.price/100).toFixed(2)}
+                    ${(product.price / 100).toFixed(2)}
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
                     {product.brand} / {product.type}
@@ -40,7 +40,7 @@ export default function ProductCard({ product }: Props) {
             </CardContent>
             <CardActions>
                 <Button size="small">ADD TO CART</Button>
-                <Button component = {Link} to={`/catalog/${product.id}`} size="small">VIEW</Button>
+                <Button component={Link} to={`/catalog/${product.id}`} size="small">VIEW</Button>
             </CardActions>
         </Card>
 
