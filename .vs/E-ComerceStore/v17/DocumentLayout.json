@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|d:\\fpt\\udemy\\e-comercestore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|D:\\FPT\\Udemy\\E-ComerceStore\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|d:\\fpt\\udemy\\e-comercestore\\api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|D:\\FPT\\Udemy\\E-ComerceStore\\api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D289196-F7C9-48E1-A490-6D331DD65750}|API\\API.csproj|solutionrelative:api\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:16:05.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T05:16:05.77Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "API\\DTOs\\BasketDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T03:41:07.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T03:41:07.465Z"
             },
             {
               "$type": "Document",
